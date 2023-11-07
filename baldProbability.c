@@ -2,7 +2,7 @@
 
 
 int main(void){
-    rtg
+    
       
 
 
