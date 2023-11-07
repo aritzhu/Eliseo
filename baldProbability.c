@@ -2,7 +2,8 @@
 
 
 int main(void){
-
+    rtg
+      
 
 
   return 0;
